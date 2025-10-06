@@ -1,0 +1,4 @@
+#ifndef PROJECTS_MAIN_H
+#define PROJECTS_MAIN_H
+
+#endif //PROJECTS_MAIN_H
